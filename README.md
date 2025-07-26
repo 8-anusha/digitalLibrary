@@ -54,4 +54,5 @@ A  **Java Spring Boot** application designed to manage a digital library. It ena
 
 └── 📄 pom.xml
 
+<img width="1915" height="875" alt="image" src="https://github.com/user-attachments/assets/5ada0cd6-cc1d-46bc-8ba5-39e9e4662c8d" />
 
